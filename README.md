@@ -25,23 +25,23 @@ To visit the portfolio, follow [this link]().
 
 #### Skills
 
-![Desktop view - Skills](images/skills.png)
+![Desktop view - Skills](Images/skills.png)
 
 #### About
 
-![Desktop view - About](images/about.png)
+![Desktop view - About](Images/about.png)
 
 ### 📱 Mobile View
 
 #### Projects
 
-![Mobile view - Projects](images/mobileprojects.png)
+![Mobile view - Projects](Images/mobileprojects.png)
 
 #### Skills
 
-![Mobile view - Skills](images/mobileskills.png)
+![Mobile view - Skills](Images/mobileskills.png.jpg)
 
 #### About
 
-![Mobile view - About](images/mobileabout.png)
+![Mobile view - About](Images/mobileabout.png)
 
